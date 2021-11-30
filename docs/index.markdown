@@ -1,7 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About
+order: 1
 ---
+
+
+
+# Self Introduction
+I am a graduate student in the Computer Science and Engineering Department of University of California, San Diego.
+I am working with [Pat Pannuto](https://patpannuto.com/).
+My research interests include  mobile computing and real-world sensing systems. 
+
+# Publication
+- Alex Yen, Bryse Flowers, Wenshan Luo, Nitish Nagesh, Peter Tueller, Ryan Kastner, and Pat Pannuto. 2021. A UCSD view on replication and reproducibility for CPS & IoT. In Proceedings of the Workshop on Benchmarking Cyber-Physical Systems and Internet of Things (CPS-IoTBench ‘21), May 2021.
+
+# Misc
+When I have free time I like listening to and playing music.
+- [me playing turkish classical music](https://www.dropbox.com/s/w80n7c48zu9l5nz/Maqam%20Saba%20on%20Alto%20Recorder.mp3)
 
